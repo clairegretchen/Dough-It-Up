@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 section.home {
-    background: url("image/background.png") center/cover no-repeat fixed;
+    background: url("background.png") center/cover no-repeat fixed;
     height: 750px;
     display: flex;
     flex-direction: column;
@@ -114,7 +114,7 @@ section.home div {
   }
 
 section.about {
-    background: url("image/background\ about\ 2.png") center/cover no-repeat fixed;
+    background: url("2.png") center/cover no-repeat fixed;
     min-height: 600px;
     padding: 100px 30px 50px 30px;
     background-color: burlywood;
@@ -153,7 +153,7 @@ section.about img {
 }
 
 .product .breadbg1{
-    background: url("image/background\ product.png") center/cover no-repeat fixed;
+    background: url("product.png") center/cover no-repeat fixed;
     min-height: 750px;
     padding: 100px 30px 50px 30px;
     display: flex;
@@ -176,7 +176,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -206,7 +206,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -235,7 +235,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -257,7 +257,7 @@ section.product .breadbg1{
 }
 
 .product .breadbg2{
-    background: url("image/background\ about.png") center/cover no-repeat fixed;
+    background: url(" about.png") center/cover no-repeat fixed;
     min-height: 750px;
     padding: 100px 30px 50px 30px;
     display: flex;
@@ -275,7 +275,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -304,7 +304,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -333,7 +333,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -355,7 +355,7 @@ section.product .breadbg1{
 }
 
  .workshop{
-    background: url("image/background\ workshop.png") center/cover no-repeat fixed;
+    background: url("workshop.png") center/cover no-repeat fixed;
     min-height: 750px;
     padding: 100px 30px 50px 30px;
     display: flex;
@@ -381,7 +381,7 @@ section.product .breadbg1{
     transition: 0.5s;
     margin: 10px;
     text-align: center;
-    background: url("image/SOFT\ BROWN\ WALLPAPER.jpg");
+    background: url("WALLPAPER.jpg");
     text-align: justify;
     padding: 16px;
     line-height: 1.5;
@@ -413,7 +413,7 @@ section.product .breadbg1{
     transition: 0.5s;
     margin: 10px;
     text-align: center;
-    background: url("image/SOFT\ BROWN\ WALLPAPER.jpg");
+    background: url("WALLPAPER.jpg");
     text-align: justify;
     padding: 16px;
     line-height: 1.5;
@@ -445,7 +445,7 @@ section.product .breadbg1{
     transition: 0.5s;
     margin: 10px;
     text-align: center;
-    background: url("image/SOFT\ BROWN\ WALLPAPER.jpg");
+    background: url("WALLPAPER.jpg");
     text-align: justify;
     padding: 16px;
     line-height: 1.5;
@@ -594,7 +594,7 @@ p{
     animation: goyang 0.3s;
   }
 section.contact {
-    background: url("image/background\ contact\ fix.png") center/cover no-repeat fixed;
+    background: url(" contact\ fix.png") center/cover no-repeat fixed;
     text-align: center;
     width: 100%;
     height: 100vh; 
