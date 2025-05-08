@@ -663,6 +663,12 @@ footer .mediasocial {
     gap: 20px;
 }
 
+ footer:hover{
+    color: rgb(105, 8, 8);
+    font-size: 30px;
+    padding: 5px 30px;
+    transition: 0.3s ease-in-out;
+ }
 section {
     min-height: 100vh;
 }
