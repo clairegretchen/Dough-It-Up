@@ -152,7 +152,7 @@ section.about img {
 }
 
 .product .breadbg1{
-    background: url("image/background\ product.png") center/cover no-repeat fixed;
+    background: url("background product.png") center/cover no-repeat fixed;
     min-height: 750px;
     padding: 100px 30px 50px 30px;
     display: flex;
@@ -303,7 +303,7 @@ section.product .breadbg1{
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    background: url("image/SOFT BROWN WALLPAPER.jpg");
+    background: url("SOFT BROWN WALLPAPER.jpg");
     box-shadow: 0 0 5px black;
     margin: 15px auto 0 auto;
     text-align: justify;
@@ -354,7 +354,7 @@ section.product .breadbg1{
 }
 
  .workshop{
-    background: url("image/background\ workshop.png") center/cover no-repeat fixed;
+    background: url("background workshop.png") center/cover no-repeat fixed;
     min-height: 750px;
     padding: 100px 30px 50px 30px;
     display: flex;
