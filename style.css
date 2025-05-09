@@ -455,7 +455,7 @@ section.product .breadbg1{
     transition: 0.4s ease-in-out;
 }
 
-.package1:hover {
+.package2:hover {
     transform: scale(1.05);
 }
 
@@ -492,7 +492,7 @@ section.product .breadbg1{
     transition: 0.4s ease-in-out;
 }
 
-.package1:hover {
+.package3:hover {
     transform: scale(1.05);
 }
 
