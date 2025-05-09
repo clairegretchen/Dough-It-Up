@@ -181,6 +181,10 @@ section.product .breadbg1{
     text-align: justify;
     overflow: hidden;
   }
+
+.bread1:hover {
+    transform: scale(1.05);
+}
   
 .bread1 button {
     display: block;
