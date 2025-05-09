@@ -456,7 +456,7 @@ section.product .breadbg1{
 }
 
 .package2:hover {
-    transform: scale(1.05);
+    transform: scale(1.05) !important;
 }
 
 .package2 button {
@@ -493,7 +493,7 @@ section.product .breadbg1{
 }
 
 .package3:hover {
-    transform: scale(1.05);
+    transform: scale(1.05) !important;
 }
 
 .package3 button {
