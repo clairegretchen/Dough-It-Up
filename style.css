@@ -180,6 +180,7 @@ section.product .breadbg1{
     margin: 15px auto 0 auto;
     text-align: justify;
     overflow: hidden;
+    transition: 0.4s ease-in-out;
   }
 
 .bread1:hover {
@@ -214,7 +215,12 @@ section.product .breadbg1{
     margin: 15px auto 0 auto;
     text-align: justify;
     overflow: hidden;
+    transition: 0.4s ease-in-out;
   }
+
+.bread2:hover {
+    transform: scale(1.05);
+}
   
 .bread2 button {
     display: block;
@@ -243,8 +249,13 @@ section.product .breadbg1{
     margin: 15px auto 0 auto;
     text-align: justify;
     overflow: hidden;
+    transition: 0.4s ease-in-out;
 }
-  
+
+.bread3:hover {
+    transform: scale(1.05);
+}
+
 .bread3 button{
     display: block;
     width: fit-content;
@@ -283,8 +294,13 @@ section.product .breadbg1{
     margin: 15px auto 0 auto;
     text-align: justify;
     overflow: hidden;
+    transition: 0.4s ease-in-out;
   }
-  
+
+.bread4:hover {
+    transform: scale(1.05);
+}
+
 .bread4 button {
     display: block;
     width: fit-content;
@@ -312,8 +328,13 @@ section.product .breadbg1{
     margin: 15px auto 0 auto;
     text-align: justify;
     overflow: hidden;
+    transition: 0.4s ease-in-out;
   }
-  
+
+.bread5:hover {
+    transform: scale(1.05);
+}
+
 .bread5 button {
     display: block;
     width: fit-content;
@@ -341,8 +362,13 @@ section.product .breadbg1{
     margin: 15px auto 0 auto;
     text-align: justify;
     overflow: hidden;
+    transition: 0.4s ease-in-out;
   }
-  
+
+.bread6:hover {
+    transform: scale(1.05);
+}
+
 .bread6 button {
     display: block;
     width: fit-content;
@@ -389,6 +415,11 @@ section.product .breadbg1{
     padding: 16px;
     line-height: 1.5;
     margin: 15px auto 0 auto; 
+    transition: 0.4s ease-in-out;
+}
+
+.package1:hover {
+    transform: scale(1.05);
 }
 
 .package1 button {
@@ -421,6 +452,11 @@ section.product .breadbg1{
     padding: 16px;
     line-height: 1.5;
     margin: 15px auto 0 auto; 
+    transition: 0.4s ease-in-out;
+}
+
+.package1:hover {
+    transform: scale(1.05);
 }
 
 .package2 button {
@@ -453,6 +489,11 @@ section.product .breadbg1{
     padding: 16px;
     line-height: 1.5;
     margin: 15px auto 0 auto; 
+    transition: 0.4s ease-in-out;
+}
+
+.package1:hover {
+    transform: scale(1.05);
 }
 
 .package3 button {
